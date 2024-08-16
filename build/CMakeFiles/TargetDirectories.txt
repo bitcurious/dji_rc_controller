@@ -1,0 +1,10 @@
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/uninstall.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/dji_rc_controller_uninstall.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/rc_controller.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/test.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/edit_cache.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/rebuild_cache.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/list_install_components.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/install.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/install/local.dir
+/home/umesh/ros2_ws/src/dji_rc_controller/build/CMakeFiles/install/strip.dir

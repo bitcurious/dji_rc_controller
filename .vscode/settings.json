@@ -1,0 +1,41 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/umesh/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/umesh/ros2_ws/install/test_pyton/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/psdk_interfaces/local/lib/python3.10/dist-packages",
+        "/home/umesh/ros2_ws/install/navogenius2_description/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/M300_RTK_1_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/umesh/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/umesh/ros2_ws/install/test_pyton/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/psdk_interfaces/local/lib/python3.10/dist-packages",
+        "/home/umesh/ros2_ws/install/navogenius2_description/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages",
+        "/home/umesh/ros2_ws/install/M300_RTK_1_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
