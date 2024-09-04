@@ -16,8 +16,12 @@ find_package(std_srvs REQUIRED)
 add_executable(rc_controller src/rc_controller.cpp)
 ament_target_dependencies(rc_controller rclcpp sensor_msgs std_msgs std_srvs)
 
+add_executable(manual_rc_controller src/manual_rc_controller.cpp)
+ament_target_dependencies(manual_rc_controller rclcpp sensor_msgs std_msgs std_srvs)
+
 install(TARGETS
   rc_controller
+  manual_rc_controller
   DESTINATION lib/${PROJECT_NAME})
 
 if(BUILD_TESTING)
